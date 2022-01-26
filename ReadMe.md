@@ -17,4 +17,3 @@ Open cart and assert that the total price and quantity are correct
 Reduce the quantity from 2 to 1 in Cart for the item selected in the step 3
 
 Assert that the total price and quantity has been correctly changed
-
